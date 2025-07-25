@@ -1,14 +1,40 @@
-# web_development
-## This is my first Git Code
+# 🇮🇳 Punjabi Cultural Heritage Website
 
-**This is Second line of code through notepad**
+This is a simple, responsive, one-page website showcasing the rich cultural traditions of **Punjab**, developed using **HTML**, **CSS**, and **Bootstrap**. It covers various aspects of Punjabi culture including traditional clothing, festivals, musical instruments, food, and dance forms.
 
-*This is italic*
+## 🔗 Live Preview
 
-### This is my Practice code
+👉 [Visit the Live Website](https://culture-of-punjab.netlify.app/)
 
-#### This is my Local Practice Code
+---
 
-## This is heading
-**this is git**
-**this is git online**
+## Features
+
+- Visually engaging sections on Punjabi heritage
+- Responsive layout using Bootstrap 5
+- Mobile-friendly design
+- Traditional music instruments and cultural elements
+- Showcasing authentic Punjabi customs
+
+---
+
+## 💻 Technologies Used
+
+- HTML5
+- CSS3
+- Bootstrap 5
+
+---
+
+## 📸 Sections Covered
+
+- Header & Banner
+- About Punjab
+- Traditional Clothing
+- Dance & Music
+- Festivals
+- Food
+- Footer with social icons
+
+
+
