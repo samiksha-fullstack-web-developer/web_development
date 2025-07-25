@@ -1,4 +1,4 @@
-# 🇮🇳 Punjabi Cultural Heritage Website
+# In Punjabi Cultural Heritage Website
 
 This is a simple, responsive, one-page website showcasing the rich cultural traditions of **Punjab**, developed using **HTML**, **CSS**, and **Bootstrap**. It covers various aspects of Punjabi culture including traditional clothing, festivals, musical instruments, food, and dance forms.
 
